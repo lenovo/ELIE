@@ -1,2 +1,3 @@
 # ELIE
-Lenovo ELIE
+Welcome to Lenovo ELIE
+
