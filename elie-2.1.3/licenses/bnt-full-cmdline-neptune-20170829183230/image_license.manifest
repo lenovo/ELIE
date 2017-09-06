@@ -1,0 +1,5 @@
+RECIPE NAME: linux-qoriq
+VERSION: 3.12
+LICENSE: GPLv2
+FILES: uImage--3.12-r0-t1024rdb-20170829183230.dtb uImage--3.12-r0-neptune-20170829183230.bin modules--3.12-r0-neptune-20170829183230.tgz
+

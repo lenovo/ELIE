@@ -1,0 +1,10 @@
+RECIPE NAME: grub-efi
+VERSION: 2.00
+LICENSE: GPLv3
+FILES: bootx64.efi
+
+RECIPE NAME: linux-yocto
+VERSION: 4.1.33+gitAUTOINC+3c3197e65b_302ef0123f
+LICENSE: GPLv2
+FILES: bzImage--4.1.33+git0+3c3197e65b_302ef0123f-r0-voyager-20170830171706.bin modules--4.1.33+git0+3c3197e65b_302ef0123f-r0-voyager-20170830171706.tgz
+

@@ -1,0 +1,5 @@
+RECIPE NAME: linux-yocto
+VERSION: 4.1.17-ltsi
+LICENSE: GPLv2
+FILES: modules--4.1.17-ltsi-r0-lxci-20170817131419.tgz bzImage--4.1.17-ltsi-r0-lxci-20170817131419.bin
+

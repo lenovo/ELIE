@@ -1,0 +1,205 @@
+#!/bin/bash
+
+#  (kgit), (mux and demux for kgit* tools)
+
+#  Copyright (c) 2008-2012 Wind River Systems, Inc.
+
+#  This program is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License version 2 as
+#  published by the Free Software Foundation.
+
+#  This program is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#  See the GNU General Public License for more details.
+
+#  You should have received a copy of the GNU General Public License
+#  along with this program; if not, write to the Free Software
+#  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+
+mydir=`dirname $0`
+PATH=$mydir:$PATH
+
+# For consistent behaviour with "grep -w"
+LC_ALL=C
+export LC_ALL
+
+usage()
+{
+cat <<EOF
+
+ kgit -h --version <command>
+
+   -h :  this message
+   -v :  version
+
+EOF
+}
+
+_commands()
+{
+    find "`dirname $0`" -maxdepth 1 -name "kgit-*" -type f \
+                  -perm -111 | sed -e "s/.*\\/`basename $0`-//"
+}
+
+# based off guilt's demux and other references
+if [ "`basename $0`" = "kgit" ]; then
+    cmd=
+    if [ $# -ne 0 ]; then
+        # take first arg, and try to execute it
+        arg="$1"
+        dir=`dirname $0`
+
+        if [ -x "$dir/kgit-$arg" ]; then
+            cmd=$arg
+        else
+            # might be a short handed
+            for command in $(_commands); do
+                case $command in
+                    $arg*)
+                    if [ -x "$dir/kgit-$command" ]; then
+                        cmd=$command
+                    fi
+                    ;;
+                esac
+            done
+        fi
+        if [ -n "$cmd" ]; then
+            shift
+            exec "$dir/kgit-$cmd" "$@"
+
+            # this is not reached because of the exec
+            die "Exec failed! Something is terribly wrong!"
+	fi
+    fi
+
+    # no args passed or invalid command entered, just output help summary
+    usage
+    echo " Available commands: "
+    echo ""
+    echo -n "    "
+    count=0
+    for c in $(_commands); do
+	if [ $count -lt 7 ]; then
+	    echo -n "$c "
+	else
+	    echo "$c"
+	    count=0
+            echo -n "    "
+	fi
+	let count=$count+1
+    done
+    echo ""; echo ""
+
+    # now, let's exit
+    exit 1
+fi
+
+
+get_current_git_branch()
+{
+    git branch --no-color | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'
+}   
+
+strlen ()		# echo ${#string} ...
+{
+    for i in "$@"; do
+        echo ${#i}
+    done
+}
+
+# arg1: length limit
+# arg2: string
+length_limited_string()
+{
+    limit=$1
+    input_string=$2
+
+    mid_point=`expr length $input_string / 2`
+    mid_point=`expr $mid_point - 5`
+
+    # limit_point=`expr length $limit / 2`
+    # len=`expr length $input_string`
+    # if [ `expr $limit_point+$limit_point < $len` ]; then
+    #    echo "why bother ?"
+    # fi
+
+    x=${input_string:0:$mid_point}
+    y=${input_string: -$mid_point}
+
+    echo "$x..$y"
+}
+
+find_dir()
+{
+    start_dir=`pwd`
+    done=0
+    count=0
+    tgt_dir="$1"
+    max_depth=$2
+
+    if [ -z "$max_depth" ]; then
+	max_depth=4
+    fi
+
+    cdir=".";
+    while [ $done -eq 0 ]; do
+        # echo "testing: $start_dir/$cdir/tgt_dir"
+        if [ -d "$start_dir/$cdir/$tgt_dir" ]; then
+            done=1;
+        else
+            # echo "not found, heading back one ...";
+            cdir="../$cdir";
+            let count=$count+1;
+            # echo "count: $count";
+        fi;
+
+        if [ $count -gt $max_depth ]; then
+            cdir="";
+            done=1;
+        fi;
+    done
+
+    if [ "$cdir" != "" ]; then\
+        cdir=`echo $cdir | sed "s/\.\///"`;
+        echo "$cdir/$tgt_dir";
+    fi
+}
+
+read_answer()
+{
+    prompt=$1
+    default_answer=$2
+
+    answer="$default_answer"
+    echo -n "    $prompt [$default_answer]: "
+    read answer
+
+    echo $answer
+}
+
+clean_path()
+{
+    _p=$1
+
+    _p=`echo $_p | sed 's%//%/%g' | sed 's%\\.\/%%g'`
+
+    # double check our efforts
+    while :
+    do
+	case $_p in
+	    # disable the check for trailing slash and removal. We want this
+	    # to be present, and we really only care about double //
+	    #*/) _p=${_p%/} 
+	    #	;;
+
+	    *//*) _p=`echo $_p | sed s%//%/%g` 
+                ;;
+
+	    *) break
+		;;
+	esac
+    done
+
+    echo $_p
+}

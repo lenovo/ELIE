@@ -1,0 +1,10 @@
+RECIPE NAME: linux-qoriq
+VERSION: 3.12
+LICENSE: GPLv2
+FILES: modules--3.12-r0-saturn-20170829172804.tgz uImage--3.12-r0-saturn-20170829172804.bin uImage--3.12-r0-p4080ds-20170829172804.dtb
+
+RECIPE NAME: u-boot
+VERSION: v2016.03+gitAUTOINC+df61a74e68
+LICENSE: GPLv2+
+FILES: u-boot-saturn-v2016.03+gitAUTOINC+df61a74e68-r0.bin
+
