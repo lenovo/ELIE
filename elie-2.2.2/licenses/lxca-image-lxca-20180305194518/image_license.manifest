@@ -1,0 +1,5 @@
+RECIPE NAME: linux-yocto
+VERSION: 4.9.78+gitAUTOINC+a2dfb1610d_e605e19e67
+LICENSE: GPLv2
+FILES: bzImage--4.9.78+git0+a2dfb1610d_e605e19e67-r0-lxca-20180305194518.bin modules--4.9.78+git0+a2dfb1610d_e605e19e67-r0-lxca-20180305194518.tgz
+
