@@ -1,0 +1,10 @@
+RECIPE NAME: linux-intel
+VERSION: 4.9.77+gitAUTOINC+a2dfb1610d_d7f2f72692
+LICENSE: GPLv2
+FILES: bzImage--4.9.77+git0+a2dfb1610d_d7f2f72692-r0-voyager-20180809174829.bin modules--4.9.77+git0+a2dfb1610d_d7f2f72692-r0-voyager-20180809174829.tgz
+
+RECIPE NAME: ovmf
+VERSION: git
+LICENSE: BSD & OpenSSL
+FILES: ovmf.qcow2 ovmf.code.qcow2 ovmf.vars.qcow2 ovmf.secboot.qcow2 ovmf.secboot.code.qcow2
+

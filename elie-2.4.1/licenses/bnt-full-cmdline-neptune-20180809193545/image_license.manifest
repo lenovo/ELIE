@@ -1,0 +1,10 @@
+RECIPE NAME: linux-qoriq
+VERSION: 4.9
+LICENSE: GPLv2
+FILES: uImage--4.9-r0-neptune-20180809193545.bin modules--4.9-r0-neptune-20180809193545.tgz uImage--4.9-r0-t1024rdb-20180809193545.dtb
+
+RECIPE NAME: u-boot-qoriq
+VERSION: 2017.09+fslgit
+LICENSE: GPLv2 & BSD-3-Clause & BSD-2-Clause & LGPL-2.0 & LGPL-2.1
+FILES: 
+

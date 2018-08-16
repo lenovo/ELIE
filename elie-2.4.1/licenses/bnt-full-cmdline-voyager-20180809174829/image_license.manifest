@@ -1,0 +1,25 @@
+RECIPE NAME: grub-efi
+VERSION: 2.02
+LICENSE: GPLv3
+FILES: grub-efi-bootx64.efi
+
+RECIPE NAME: linux-intel
+VERSION: 4.9.77+gitAUTOINC+a2dfb1610d_d7f2f72692
+LICENSE: GPLv2
+FILES: bzImage--4.9.77+git0+a2dfb1610d_d7f2f72692-r0-voyager-20180809174829.bin modules--4.9.77+git0+a2dfb1610d_d7f2f72692-r0-voyager-20180809174829.tgz
+
+RECIPE NAME: ovmf
+VERSION: git
+LICENSE: BSD & OpenSSL
+FILES: ovmf.qcow2 ovmf.code.qcow2 ovmf.vars.qcow2 ovmf.secboot.qcow2 ovmf.secboot.code.qcow2
+
+RECIPE NAME: rmc-db
+VERSION: 1.0
+LICENSE: MIT
+FILES: rmc.db
+
+RECIPE NAME: systemd-boot
+VERSION: 234
+LICENSE: GPLv2 & LGPLv2.1
+FILES: systemd-bootx64.efi linuxx64.efi.stub
+

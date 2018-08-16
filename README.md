@@ -31,6 +31,8 @@ elie-2.2.2
   - licenses for packages included in elie-2.2.2, currently used by the LXCA
     product.
 
+elie-2.4.1 
+  - licenses for packages included in elie-2.4.1. Used by networking switches.
 
 For access to the actual meta layer source code, please contact Lenovo Support.
 
