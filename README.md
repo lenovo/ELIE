@@ -42,6 +42,9 @@ elie-2.7.1
   - license files for packages included in elie-2.7.1. Used by (XA) LXCI 6.2,
     LXCA 2.7.0 and beyond.
 
+elie-3.1
+  - license files for packages available in elie-3.1.
+
 For access to the actual meta layer source code, please contact Lenovo Support.
 
 

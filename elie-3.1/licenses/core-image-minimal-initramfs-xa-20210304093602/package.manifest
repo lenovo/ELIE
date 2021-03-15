@@ -1,0 +1,15 @@
+base-passwd
+busybox
+busybox-udhcpc
+eudev
+initramfs-framework-base
+initramfs-module-rootfs
+initramfs-module-udev
+ldconfig
+libblkid1
+libc6
+libkmod2
+libz1
+run-postinsts
+update-alternatives-opkg
+update-rc.d
