@@ -45,6 +45,9 @@ elie-2.7.1
 elie-3.1
   - license files for packages available in elie-3.1.
 
+elie-4.3
+  - license files for packages available in elie-4.3.
+
 For access to the actual meta layer source code, please contact Lenovo Support.
 
 
