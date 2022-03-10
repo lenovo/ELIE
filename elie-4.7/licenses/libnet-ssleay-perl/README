@@ -1,0 +1,21 @@
+	gdb perl            # run live with debugging
+	  # set break point in SSLeay.xs or in suspect function of OpenSSL
+	  > br XS_Net__SSLeay_connect
+	  > run yourscript.pl arg arg
+
+For gdb'ing make sure gdb finds all the relevant source code. This
+may mean that you must run perl and OpenSSL from the directories where
+the respective makefiles build them.
+
+You can also enable PR and PRN macros in SSLeay.xs and sprinkle
+even some more around the code to figure out what's happening.
+
+Some exotic configurations of perl may cause unstability: make sure
+OpenSSL uses the same malloc as perl. Recompile perl without
+threads. Try not using the PerlIO abstraction.
+
+If you need to tweak build for some platform, please let me know
+so I can fix it. Patches and gdb session dumps are also welcome.
+
+License and Copying
+-------------------
