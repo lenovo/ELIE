@@ -48,6 +48,9 @@ elie-3.1
 elie-4.3
   - license files for packages available in elie-4.3.
 
+elie-4.6
+  - license files for packages available in elie-4.6.
+
 elie-4.7
   - license files for packages available in elie-4.7.
 

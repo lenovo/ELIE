@@ -1,0 +1,4490 @@
+PACKAGE NAME: acpid
+PACKAGE VERSION: 2.0.32
+RECIPE NAME: acpid
+LICENSE: GPLv2+
+
+PACKAGE NAME: base-files
+PACKAGE VERSION: 3.0.14
+RECIPE NAME: base-files
+LICENSE: GPLv2
+
+PACKAGE NAME: base-passwd
+PACKAGE VERSION: 3.5.29
+RECIPE NAME: base-passwd
+LICENSE: GPLv2
+
+PACKAGE NAME: bash
+PACKAGE VERSION: 5.0
+RECIPE NAME: bash
+LICENSE: GPLv3+
+
+PACKAGE NAME: bc
+PACKAGE VERSION: 1.07.1
+RECIPE NAME: bc
+LICENSE: GPLv3+
+
+PACKAGE NAME: bind-libs
+PACKAGE VERSION: 9.11.36
+RECIPE NAME: bind
+LICENSE: ISC & BSD
+
+PACKAGE NAME: busybox
+PACKAGE VERSION: 1.31.1
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2-1.0.4
+
+PACKAGE NAME: busybox-udhcpc
+PACKAGE VERSION: 1.31.1
+RECIPE NAME: busybox
+LICENSE: GPLv2 & bzip2-1.0.4
+
+PACKAGE NAME: ca-certificates
+PACKAGE VERSION: 20211016
+RECIPE NAME: ca-certificates
+LICENSE: GPL-2.0+ & MPL-2.0
+
+PACKAGE NAME: cronie
+PACKAGE VERSION: 1.5.5
+RECIPE NAME: cronie
+LICENSE: ISC & BSD-3-Clause & BSD-2-Clause & GPLv2+
+
+PACKAGE NAME: db
+PACKAGE VERSION: 5.3.28
+RECIPE NAME: db
+LICENSE: Sleepycat
+
+PACKAGE NAME: db-bin
+PACKAGE VERSION: 5.3.28
+RECIPE NAME: db
+LICENSE: Sleepycat
+
+PACKAGE NAME: dbus
+PACKAGE VERSION: 1.12.18
+RECIPE NAME: dbus
+LICENSE: AFL-2.1 | GPLv2+
+
+PACKAGE NAME: dbus-lib
+PACKAGE VERSION: 1.12.18
+RECIPE NAME: dbus
+LICENSE: AFL-2.1 | GPLv2+
+
+PACKAGE NAME: debianutils
+PACKAGE VERSION: 4.9.1
+RECIPE NAME: debianutils
+LICENSE: GPLv2 & SMAIL_GPL
+
+PACKAGE NAME: debianutils-run-parts
+PACKAGE VERSION: 4.9.1
+RECIPE NAME: debianutils
+LICENSE: GPLv2 & SMAIL_GPL
+
+PACKAGE NAME: dhcp-client
+PACKAGE VERSION: 4.4.2
+RECIPE NAME: dhcp
+LICENSE: ISC
+
+PACKAGE NAME: dhcp-libs
+PACKAGE VERSION: 4.4.2
+RECIPE NAME: dhcp
+LICENSE: ISC
+
+PACKAGE NAME: dnf
+PACKAGE VERSION: 4.2.23
+RECIPE NAME: dnf
+LICENSE: GPLv2
+
+PACKAGE NAME: dosfstools
+PACKAGE VERSION: 4.1
+RECIPE NAME: dosfstools
+LICENSE: GPLv3
+
+PACKAGE NAME: e2fsprogs
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD & MIT
+
+PACKAGE NAME: e2fsprogs-badblocks
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: e2fsprogs-dumpe2fs
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: e2fsprogs-e2fsck
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: e2fsprogs-mke2fs
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2
+
+PACKAGE NAME: elie-version
+PACKAGE VERSION: 1.0
+RECIPE NAME: elie-version
+LICENSE: MIT
+
+PACKAGE NAME: expat
+PACKAGE VERSION: 2.2.9
+RECIPE NAME: expat
+LICENSE: MIT
+
+PACKAGE NAME: file
+PACKAGE VERSION: 5.38
+RECIPE NAME: file
+LICENSE: BSD-2-Clause
+
+PACKAGE NAME: gdbm
+PACKAGE VERSION: 1.18.1
+RECIPE NAME: gdbm
+LICENSE: GPLv3
+
+PACKAGE NAME: gdbm-compat
+PACKAGE VERSION: 1.18.1
+RECIPE NAME: gdbm
+LICENSE: GPLv3
+
+PACKAGE NAME: glib-2.0
+PACKAGE VERSION: 2.62.6
+RECIPE NAME: glib-2.0
+LICENSE: LGPLv2.1+ & BSD & PD
+
+PACKAGE NAME: glibc
+PACKAGE VERSION: 2.31+gitAUTOINC+4f0a61f753
+RECIPE NAME: glibc
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: glibc-gconv
+PACKAGE VERSION: 2.31
+RECIPE NAME: glibc-locale
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: glibc-gconv-ibm437
+PACKAGE VERSION: 2.31
+RECIPE NAME: glibc-locale
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: gmp
+PACKAGE VERSION: 6.2.0
+RECIPE NAME: gmp
+LICENSE: GPLv2+ | LGPLv3+
+
+PACKAGE NAME: gnupg
+PACKAGE VERSION: 2.2.27
+RECIPE NAME: gnupg
+LICENSE: GPLv3 & LGPLv3
+
+PACKAGE NAME: gnupg-gpg
+PACKAGE VERSION: 2.2.27
+RECIPE NAME: gnupg
+LICENSE: GPLv3 & LGPLv3
+
+PACKAGE NAME: gnutls
+PACKAGE VERSION: 3.7.2
+RECIPE NAME: gnutls
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: gpgme
+PACKAGE VERSION: 1.13.1
+RECIPE NAME: gpgme
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: grub
+PACKAGE VERSION: 2.04+2.06~rc1
+RECIPE NAME: grub
+LICENSE: GPLv3
+
+PACKAGE NAME: grub-common
+PACKAGE VERSION: 2.04+2.06~rc1
+RECIPE NAME: grub
+LICENSE: GPLv3
+
+PACKAGE NAME: grub-editenv
+PACKAGE VERSION: 2.04+2.06~rc1
+RECIPE NAME: grub
+LICENSE: GPLv3
+
+PACKAGE NAME: hdparm
+PACKAGE VERSION: 9.58
+RECIPE NAME: hdparm
+LICENSE: BSD
+
+PACKAGE NAME: ifupdown
+PACKAGE VERSION: 0.8.35
+RECIPE NAME: ifupdown
+LICENSE: GPLv2
+
+PACKAGE NAME: init-ifupdown
+PACKAGE VERSION: 1.0
+RECIPE NAME: init-ifupdown
+LICENSE: GPLv2
+
+PACKAGE NAME: iproute2
+PACKAGE VERSION: 5.5.0
+RECIPE NAME: iproute2
+LICENSE: GPLv2+
+
+PACKAGE NAME: json-c
+PACKAGE VERSION: 0.13.1
+RECIPE NAME: json-c
+LICENSE: MIT
+
+PACKAGE NAME: kbd
+PACKAGE VERSION: 2.2.0
+RECIPE NAME: kbd
+LICENSE: GPLv2+
+
+PACKAGE NAME: kbd-consolefonts
+PACKAGE VERSION: 2.2.0
+RECIPE NAME: kbd
+LICENSE: GPLv2+
+
+PACKAGE NAME: kbd-keymaps
+PACKAGE VERSION: 2.2.0
+RECIPE NAME: kbd
+LICENSE: GPLv2+
+
+PACKAGE NAME: kernel-base
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-image-bzimage
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-image-vmlinuz
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-6lowpan-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-8021q-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-8139cp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-8139too-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ac97-bus-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-act-mirred-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-act-police-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-af-key-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ah4-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-alx-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-anubis-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-arp-tables-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-arpt-mangle-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-arptable-filter-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-asix-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-at24-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ata-piix-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ath-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ath5k-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ath9k-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ath9k-common-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ath9k-hw-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-atl1-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-atl1c-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-atl1e-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-atl2-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ax88179-178a-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-backlight-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bcma-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-binfmt-misc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-blowfish-common-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-blowfish-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bluetooth-6lowpan-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bnep-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bnx2x-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bnxt-en-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bonding-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-br-netfilter-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-brcmfmac-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-brcmsmac-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-brcmutil-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bridge-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bsd-comp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-bytestream-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-camellia-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cast-common-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cast5-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cast6-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cdc-eem-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cdc-ether-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cdc-ncm-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cdc-subset-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cfg80211-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cirrus-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cls-cgroup-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cmtp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-configfs-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-configfs-sample-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cordic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cpia2-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-crc-ccitt-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-crc8-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cryptoloop-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-cuse-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-data-breakpoint-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-diag-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-dl2k-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-dm-bio-prison-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-dm-persistent-data-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-dm-thin-pool-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-dm9601-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-dma-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-dummy-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-802-3-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-among-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-arp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-arpreply-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-dnat-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-ip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-ip6-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-limit-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-log-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-mark-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-mark-m-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-nflog-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-pkttype-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-redirect-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-snat-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-stp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebt-vlan-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebtable-broute-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebtable-filter-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebtable-nat-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ebtables-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-eeprom-93cx6-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-efivars-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-em-cmp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-em-ipset-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-em-ipt-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-em-meta-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-em-nbyte-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-em-text-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-em-u32-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-esp4-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-floppy-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-fuse-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-generic-bl-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gre-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-benq-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-conex-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-cpia1-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-etoms-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-finepix-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-gl860-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-jeilinj-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-jl2005bcd-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-kinect-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-konica-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-m5602-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-main-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-mars-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-mr97310a-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-nw80x-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-ov519-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-ov534-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-ov534-9-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-pac207-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-pac7302-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-pac7311-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-se401-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sn9c2028-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sn9c20x-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sonixb-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sonixj-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-spca1528-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-spca500-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-spca501-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-spca505-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-spca506-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-spca508-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-spca561-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sq905-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sq905c-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sq930x-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-stk014-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-stv0680-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-stv06xx-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-sunplus-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-t613-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-topro-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-tv8532-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-vc032x-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-vicam-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-xirlink-cit-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-gspca-zc3xx-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-hid-hyperv-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-hidp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-hv-sock-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-hyperv-fb-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-i2c-mux-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-i915-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-igbvf-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-inttype-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-gre-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-bitmap-ip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-bitmap-ipmac-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-bitmap-port-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-ip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-ipmac-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-ipmark-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-ipport-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-ipportip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-ipportnet-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-mac-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-net-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-netiface-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-netnet-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-netport-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-hash-netportnet-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-set-list-set-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip-tables-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6-tables-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6-tunnel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6-udp-tunnel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6t-eui64-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6t-frag-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6t-hbh-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6t-ipv6header-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6t-rpfilter-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6t-rt-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6table-filter-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6table-mangle-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6table-nat-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ip6table-raw-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipcomp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipcomp6-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipt-ah-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipt-clusterip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipt-ecn-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipt-reject-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipt-rpfilter-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ipt-synproxy-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-iptable-filter-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-iptable-mangle-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-iptable-nat-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-iptable-raw-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-iptable-security-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-jme-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-kaweth-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-kernelcapi-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-khazad-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-kobject-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-kprobe-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-kretprobe-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-kset-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-libphy-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-llc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-lp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mac80211-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mcs7830-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mdio-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-michael-mic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mpls-gso-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-mt7601u-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nbd-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-net1080-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conncount-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-amanda-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-broadcast-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-ftp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-h323-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-irc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-netbios-ns-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-netlink-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-pptp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-sane-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-sip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-conntrack-tftp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-log-common-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-log-ipv4-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-log-ipv6-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-amanda-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-ftp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-h323-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-irc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-pptp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-sip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-nat-tftp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-reject-ipv4-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nf-synproxy-core-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nfnetlink-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nfnetlink-log-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nfnetlink-queue-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nfsd-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nhc-dest-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nhc-fragment-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nhc-hop-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nhc-ipv6-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nhc-mobility-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nhc-routing-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nhc-udp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-ascii-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp1250-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp1251-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp1255-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp737-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp775-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp850-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp852-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp855-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp857-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp860-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp861-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp862-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp863-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp864-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp865-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp866-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp869-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp874-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp932-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp936-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp949-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-cp950-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-euc-jp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-13-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-14-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-15-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-2-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-3-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-4-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-5-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-6-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-7-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-iso8859-9-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-koi8-r-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-koi8-ru-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-koi8-u-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nls-utf8-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-nsh-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-openvswitch-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-p8022-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-parport-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-parport-pc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pci-hyperv-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pci-hyperv-intf-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pcnet32-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pegasus-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pktgen-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ppp-async-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ppp-deflate-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ppp-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ppp-synctty-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pppoe-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pppox-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-psnap-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-pwc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-r8152-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-r8169-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-realtek-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-record-example-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-regmap-i2c-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rfcomm-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rndis-host-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-romfs-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rt2800lib-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rt2800mmio-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rt2800pci-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rt2x00lib-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rt2x00mmio-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rt2x00pci-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-rtl8150-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-s2255drv-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-cbq-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-codel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-dsmark-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-fq-codel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-gred-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-hfsc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-htb-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-ingress-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-netem-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-prio-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-red-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-sfq-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-tbf-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sch-teql-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sctp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sctp-diag-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-serpent-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-skge-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-sky2-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-slhc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-slip-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-smsc75xx-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-smsc95xx-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ac97-codec-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ak4113-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ak4114-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ak4xxx-adda-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-aloop-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-atiixp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-atiixp-modem-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ca0106-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-cmipci-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-cs8427-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ctxfi-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-emu10k1-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-emu10k1-synth-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-emu10k1x-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-emux-synth-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ens1370-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-analog-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-ca0110-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-ca0132-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-cirrus-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-cmedia-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-conexant-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-hdmi-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-idt-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-realtek-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-si3054-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-codec-via-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-core-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hda-intel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hdsp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hdspm-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hrtimer-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-hwdep-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-i2c-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ice1712-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ice1724-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-ice17xx-ak4xxx-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-intel-nhlt-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-intel8x0-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-mpu401-uart-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-opl3-lib-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-opl3-synth-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-oxygen-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-oxygen-lib-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-pcm-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-pt2258-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-rawmidi-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-rme96-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-rme9652-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-seq-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-seq-device-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-seq-midi-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-seq-midi-emul-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-seq-midi-event-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-seq-virmidi-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-timer-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-usb-audio-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-usb-hiface-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-usb-us122l-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-usb-usx2y-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-usbmidi-lib-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-util-mem-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-snd-virtuoso-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-softdog-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-soundcore-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-stkwebcam-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-stp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-tcrypt-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-tea-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-tg3-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-tipc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-trace-events-sample-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-trace-printk-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ts-bm-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ts-fsm-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-ts-kmp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-tun-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-tunnel6-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-twofish-common-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-twofish-generic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-typhoon-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-udp-tunnel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-usbnet-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-usbtouchscreen-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-uvcvideo-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-uvesafb-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-v4l2-dv-timings-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-video-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-videobuf2-common-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-videobuf2-memops-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-videobuf2-v4l2-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-videobuf2-vmalloc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-videodev-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-virtio-input-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vmw-balloon-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vmw-vmci-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vmw-vsock-vmci-transport-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vmwgfx-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vport-gre-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vport-vxlan-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vsock-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vsock-diag-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-vxlan-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-watchdog-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-wp512-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-x-tables-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-x86-pkg-temp-thermal-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xcbc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-acpi-processor-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-blkback-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-gntalloc-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-gntdev-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-netback-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-pciback-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-scsifront-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xen-wdt-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xfrm-ipcomp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xfrm-user-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xfrm4-tunnel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xfrm6-tunnel-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-addrtype-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-classify-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-comment-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-connbytes-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-connlimit-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-connmark-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-conntrack-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-ct-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-dccp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-dscp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-ecn-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-esp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-hashlimit-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-helper-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-hl-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-length-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-limit-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-log-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-mac-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-mark-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-masquerade-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-multiport-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-nat-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-netmap-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-nflog-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-nfqueue-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-physdev-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-pkttype-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-policy-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-quota-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-realm-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-redirect-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-sctp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-set-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-state-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-statistic-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-string-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-tcpmss-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-tcpudp-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-trace-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-xt-u32-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-module-zaurus-5.4.167-yocto-standard
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kernel-modules
+PACKAGE VERSION: 5.4.167+gitAUTOINC+ff304dbaec_6244469059
+RECIPE NAME: linux-yocto
+LICENSE: GPLv2
+
+PACKAGE NAME: kmod
+PACKAGE VERSION: 26
+RECIPE NAME: kmod
+LICENSE: GPL-2.0+ & LGPL-2.1+
+
+PACKAGE NAME: ldconfig
+PACKAGE VERSION: 2.31+gitAUTOINC+4f0a61f753
+RECIPE NAME: glibc
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: libarchive
+PACKAGE VERSION: 3.5.2
+RECIPE NAME: libarchive
+LICENSE: BSD-2-Clause
+
+PACKAGE NAME: libassuan
+PACKAGE VERSION: 2.5.3
+RECIPE NAME: libassuan
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libbz2
+PACKAGE VERSION: 1.0.8
+RECIPE NAME: bzip2
+LICENSE: bzip2-1.0.6
+
+PACKAGE NAME: libcap
+PACKAGE VERSION: 2.32
+RECIPE NAME: libcap
+LICENSE: BSD | GPLv2
+
+PACKAGE NAME: libcap-ng
+PACKAGE VERSION: 0.7.10
+RECIPE NAME: libcap-ng
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: libcomerr
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD & MIT
+
+PACKAGE NAME: libcomps
+PACKAGE VERSION: 0.1.15
+RECIPE NAME: libcomps
+LICENSE: GPLv2
+
+PACKAGE NAME: libcrypto
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libcurl
+PACKAGE VERSION: 7.79.1
+RECIPE NAME: curl
+LICENSE: MIT
+
+PACKAGE NAME: libdnf
+PACKAGE VERSION: 0.63.1
+RECIPE NAME: libdnf
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libdw
+PACKAGE VERSION: 0.178
+RECIPE NAME: elfutils
+LICENSE: GPLv2 | LGPLv3+
+
+PACKAGE NAME: libe2p
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD & MIT
+
+PACKAGE NAME: libelf
+PACKAGE VERSION: 0.178
+RECIPE NAME: elfutils
+LICENSE: GPLv2 | LGPLv3+
+
+PACKAGE NAME: libestr
+PACKAGE VERSION: 0.1.11
+RECIPE NAME: libestr
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libext2fs
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD & MIT
+
+PACKAGE NAME: libfastjson
+PACKAGE VERSION: 0.99.8
+RECIPE NAME: libfastjson
+LICENSE: MIT
+
+PACKAGE NAME: libffi
+PACKAGE VERSION: 3.3
+RECIPE NAME: libffi
+LICENSE: MIT
+
+PACKAGE NAME: libgcc
+PACKAGE VERSION: 9.3.0
+RECIPE NAME: libgcc
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libgcrypt
+PACKAGE VERSION: 1.9.4
+RECIPE NAME: libgcrypt
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libgomp
+PACKAGE VERSION: 9.3.0
+RECIPE NAME: gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libgpg-error
+PACKAGE VERSION: 1.37
+RECIPE NAME: libgpg-error
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: libidn2
+PACKAGE VERSION: 2.3.0
+RECIPE NAME: libidn2
+LICENSE: (GPLv2+ | LGPLv3)
+
+PACKAGE NAME: libjitterentropy
+PACKAGE VERSION: 2.2.0
+RECIPE NAME: libjitterentropy
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libkmod
+PACKAGE VERSION: 26
+RECIPE NAME: kmod
+LICENSE: LGPL-2.1+
+
+PACKAGE NAME: libksba
+PACKAGE VERSION: 1.3.5
+RECIPE NAME: libksba
+LICENSE: GPLv2+ | LGPLv3+
+
+PACKAGE NAME: liblzma
+PACKAGE VERSION: 5.2.4
+RECIPE NAME: xz
+LICENSE: PD
+
+PACKAGE NAME: libmnl
+PACKAGE VERSION: 1.0.4
+RECIPE NAME: libmnl
+LICENSE: LGPLv2.1+
+
+PACKAGE NAME: libmodulemd
+PACKAGE VERSION: 2.13.0
+RECIPE NAME: libmodulemd
+LICENSE: MIT
+
+PACKAGE NAME: libnsl2
+PACKAGE VERSION: 1.2.0+gitAUTOINC+4a062cf418
+RECIPE NAME: libnsl2
+LICENSE: LGPL-2.1
+
+PACKAGE NAME: libnss-myhostname
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: libpam
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libpam-runtime
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: libpci
+PACKAGE VERSION: 3.6.4
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: libpcre
+PACKAGE VERSION: 8.44
+RECIPE NAME: libpcre
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: libpython3
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: librepo
+PACKAGE VERSION: 1.14.1
+RECIPE NAME: librepo
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libsolv
+PACKAGE VERSION: 0.7.19
+RECIPE NAME: libsolv
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: libsolvext
+PACKAGE VERSION: 0.7.19
+RECIPE NAME: libsolv
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: libsqlite3
+PACKAGE VERSION: 3.34.1
+RECIPE NAME: sqlite3
+LICENSE: PD
+
+PACKAGE NAME: libss
+PACKAGE VERSION: 1.45.7
+RECIPE NAME: e2fsprogs
+LICENSE: GPLv2 & LGPLv2 & BSD & MIT
+
+PACKAGE NAME: libssl
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: libstdc++
+PACKAGE VERSION: 9.3.0
+RECIPE NAME: gcc-runtime
+LICENSE: GPL-3.0-with-GCC-exception
+
+PACKAGE NAME: libsysfs
+PACKAGE VERSION: 2.1.0
+RECIPE NAME: sysfsutils
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libsystemd
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: libtirpc
+PACKAGE VERSION: 1.2.6
+RECIPE NAME: libtirpc
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: libudev
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: libunistring
+PACKAGE VERSION: 0.9.10
+RECIPE NAME: libunistring
+LICENSE: LGPLv3+ | GPLv2
+
+PACKAGE NAME: libx11
+PACKAGE VERSION: 1.7.2
+RECIPE NAME: libx11
+LICENSE: MIT & MIT-style & BSD
+
+PACKAGE NAME: libxau
+PACKAGE VERSION: 1.0.9
+RECIPE NAME: libxau
+LICENSE: MIT-style
+
+PACKAGE NAME: libxcb
+PACKAGE VERSION: 1.13.1
+RECIPE NAME: libxcb
+LICENSE: MIT
+
+PACKAGE NAME: libxcrypt
+PACKAGE VERSION: 4.4.15
+RECIPE NAME: libxcrypt
+LICENSE: LGPLv2.1
+
+PACKAGE NAME: libxdmcp
+PACKAGE VERSION: 1.1.3
+RECIPE NAME: libxdmcp
+LICENSE: MIT-style
+
+PACKAGE NAME: libxml2
+PACKAGE VERSION: 2.9.12
+RECIPE NAME: libxml2
+LICENSE: MIT
+
+PACKAGE NAME: libyaml
+PACKAGE VERSION: 0.2.2
+RECIPE NAME: libyaml
+LICENSE: MIT
+
+PACKAGE NAME: locale-base-en-us
+PACKAGE VERSION: 2.31
+RECIPE NAME: glibc-locale
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: logrotate
+PACKAGE VERSION: 3.15.1
+RECIPE NAME: logrotate
+LICENSE: GPLv2
+
+PACKAGE NAME: lsb
+PACKAGE VERSION: 5.0
+RECIPE NAME: lsb
+LICENSE: GPLv2+
+
+PACKAGE NAME: lsbinitscripts
+PACKAGE VERSION: 9.79
+RECIPE NAME: lsbinitscripts
+LICENSE: GPLv2
+
+PACKAGE NAME: lsof
+PACKAGE VERSION: 4.91
+RECIPE NAME: lsof
+LICENSE: BSD
+
+PACKAGE NAME: lzo
+PACKAGE VERSION: 2.10
+RECIPE NAME: lzo
+LICENSE: GPLv2+
+
+PACKAGE NAME: mc
+PACKAGE VERSION: 4.8.23
+RECIPE NAME: mc
+LICENSE: GPLv3
+
+PACKAGE NAME: ncurses-libncurses
+PACKAGE VERSION: 6.3
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-libncursesw
+PACKAGE VERSION: 6.3
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-libpanelw
+PACKAGE VERSION: 6.3
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-libtinfo
+PACKAGE VERSION: 6.3
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo
+PACKAGE VERSION: 6.3
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: ncurses-terminfo-base
+PACKAGE VERSION: 6.3
+RECIPE NAME: ncurses
+LICENSE: MIT
+
+PACKAGE NAME: net-tools
+PACKAGE VERSION: 1.60-26
+RECIPE NAME: net-tools
+LICENSE: GPLv2+
+
+PACKAGE NAME: netbase
+PACKAGE VERSION: 6.1
+RECIPE NAME: netbase
+LICENSE: GPLv2
+
+PACKAGE NAME: nettle
+PACKAGE VERSION: 3.7.3
+RECIPE NAME: nettle
+LICENSE: LGPLv3+ | GPLv2+
+
+PACKAGE NAME: npth
+PACKAGE VERSION: 1.6
+RECIPE NAME: npth
+LICENSE: LGPLv2+
+
+PACKAGE NAME: openssh
+PACKAGE VERSION: 8.8p1
+RECIPE NAME: openssh
+LICENSE: BSD-2-Clause & BSD-3-Clause & BSD-4-Clause & ISC & MIT
+
+PACKAGE NAME: openssh-keygen
+PACKAGE VERSION: 8.8p1
+RECIPE NAME: openssh
+LICENSE: BSD-2-Clause & BSD-3-Clause & BSD-4-Clause & ISC & MIT
+
+PACKAGE NAME: openssh-scp
+PACKAGE VERSION: 8.8p1
+RECIPE NAME: openssh
+LICENSE: BSD-2-Clause & BSD-3-Clause & BSD-4-Clause & ISC & MIT
+
+PACKAGE NAME: openssh-ssh
+PACKAGE VERSION: 8.8p1
+RECIPE NAME: openssh
+LICENSE: BSD-2-Clause & BSD-3-Clause & BSD-4-Clause & ISC & MIT
+
+PACKAGE NAME: openssh-sshd
+PACKAGE VERSION: 8.8p1
+RECIPE NAME: openssh
+LICENSE: BSD-2-Clause & BSD-3-Clause & BSD-4-Clause & ISC & MIT
+
+PACKAGE NAME: openssl
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: openssl-bin
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: openssl-conf
+PACKAGE VERSION: 1.1.1l
+RECIPE NAME: openssl
+LICENSE: openssl
+
+PACKAGE NAME: os-release
+PACKAGE VERSION: 1.0
+RECIPE NAME: os-release
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-acpi
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-ext2
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-extended
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-ipv6
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-nfs
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-pci
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-usbgadget
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-base-vfat
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-core-boot
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-boot
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-core-ssh-openssh
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-core-ssh-openssh
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-distro-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: packagegroup-machine-base
+PACKAGE VERSION: 1.0
+RECIPE NAME: packagegroup-base
+LICENSE: MIT
+
+PACKAGE NAME: pam-plugin-access
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-deny
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-env
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-faildelay
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-group
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-keyinit
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-lastlog
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-limits
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-loginuid
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-mail
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-motd
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-nologin
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-permit
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-rootok
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-securetty
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-shells
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-unix
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pam-plugin-warn
+PACKAGE VERSION: 1.5.1
+RECIPE NAME: libpam
+LICENSE: GPLv2+ | BSD
+
+PACKAGE NAME: pciutils
+PACKAGE VERSION: 3.6.4
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: pciutils-ids
+PACKAGE VERSION: 3.6.4
+RECIPE NAME: pciutils
+LICENSE: GPLv2+
+
+PACKAGE NAME: perl
+PACKAGE VERSION: 5.30.3
+RECIPE NAME: perl
+LICENSE: Artistic-1.0 | GPL-1.0+
+
+PACKAGE NAME: perl-module-config-heavy
+PACKAGE VERSION: 5.30.3
+RECIPE NAME: perl
+LICENSE: Artistic-1.0 | GPL-1.0+
+
+PACKAGE NAME: pinentry
+PACKAGE VERSION: 1.1.0
+RECIPE NAME: pinentry
+LICENSE: GPLv2
+
+PACKAGE NAME: pkg-init
+PACKAGE VERSION: 1.0
+RECIPE NAME: pkg-init
+LICENSE: MIT
+
+PACKAGE NAME: popt
+PACKAGE VERSION: 1.16
+RECIPE NAME: popt
+LICENSE: MIT
+
+PACKAGE NAME: procps
+PACKAGE VERSION: 3.3.16
+RECIPE NAME: procps
+LICENSE: GPLv2+ & LGPLv2+
+
+PACKAGE NAME: psplash
+PACKAGE VERSION: 0.1+gitAUTOINC+0a902f7cd8
+RECIPE NAME: psplash
+LICENSE: GPLv2+
+
+PACKAGE NAME: psplash-default
+PACKAGE VERSION: 0.1+gitAUTOINC+0a902f7cd8
+RECIPE NAME: psplash
+LICENSE: GPLv2+
+
+PACKAGE NAME: python3-2to3
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-asyncio
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-audio
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-codecs
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-compile
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-compression
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-core
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-crypt
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-ctypes
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-curses
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-datetime
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-db
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-debugger
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-difflib
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-distutils
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-doctest
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-email
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-fcntl
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-gpg
+PACKAGE VERSION: 1.13.1
+RECIPE NAME: gpgme
+LICENSE: GPLv2+ & LGPLv2.1+
+
+PACKAGE NAME: python3-html
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-idle
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-image
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-iniparse
+PACKAGE VERSION: 0.4
+RECIPE NAME: python3-iniparse
+LICENSE: MIT & PSF
+
+PACKAGE NAME: python3-io
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-json
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-logging
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-mailbox
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-math
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-mime
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-misc
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-mmap
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-modules
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-multiprocessing
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-netclient
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-netserver
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-numbers
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-pickle
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-pip
+PACKAGE VERSION: 20.0.2
+RECIPE NAME: python3-pip
+LICENSE: MIT
+
+PACKAGE NAME: python3-pkg-resources
+PACKAGE VERSION: 47.3.1
+RECIPE NAME: python3-setuptools
+LICENSE: MIT
+
+PACKAGE NAME: python3-pkgutil
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-plistlib
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-pprint
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-profile
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-pydoc
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-resource
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-rpm
+PACKAGE VERSION: 4.14.2.1
+RECIPE NAME: rpm
+LICENSE: GPL-2.0
+
+PACKAGE NAME: python3-setuptools
+PACKAGE VERSION: 47.3.1
+RECIPE NAME: python3-setuptools
+LICENSE: MIT
+
+PACKAGE NAME: python3-shell
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-six
+PACKAGE VERSION: 1.15.0
+RECIPE NAME: python3-six
+LICENSE: MIT
+
+PACKAGE NAME: python3-smtpd
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-sqlite3
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-stringold
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-syslog
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-terminal
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-threading
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-tkinter
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-typing
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-unittest
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-unixadmin
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-venv
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-xml
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: python3-xmlrpc
+PACKAGE VERSION: 3.8.12
+RECIPE NAME: python3
+LICENSE: PSF-2.0 & BSD-0-Clause
+
+PACKAGE NAME: rc-local
+PACKAGE VERSION: 1.0
+RECIPE NAME: rc-local
+LICENSE: MIT
+
+PACKAGE NAME: readline
+PACKAGE VERSION: 8.0
+RECIPE NAME: readline
+LICENSE: GPLv3+
+
+PACKAGE NAME: rng-tools
+PACKAGE VERSION: 6.9
+RECIPE NAME: rng-tools
+LICENSE: GPLv2
+
+PACKAGE NAME: rpcbind
+PACKAGE VERSION: 1.2.5
+RECIPE NAME: rpcbind
+LICENSE: BSD-3-Clause
+
+PACKAGE NAME: rpm
+PACKAGE VERSION: 4.14.2.1
+RECIPE NAME: rpm
+LICENSE: GPL-2.0
+
+PACKAGE NAME: rsyslog
+PACKAGE VERSION: 8.2002.0
+RECIPE NAME: rsyslog
+LICENSE: GPLv3 & LGPLv3 & Apache-2.0
+
+PACKAGE NAME: run-postinsts
+PACKAGE VERSION: 1.0
+RECIPE NAME: run-postinsts
+LICENSE: MIT
+
+PACKAGE NAME: shadow
+PACKAGE VERSION: 4.8.1
+RECIPE NAME: shadow
+LICENSE: BSD | Artistic-1.0
+
+PACKAGE NAME: shadow-base
+PACKAGE VERSION: 4.8.1
+RECIPE NAME: shadow
+LICENSE: BSD | Artistic-1.0
+
+PACKAGE NAME: shadow-securetty
+PACKAGE VERSION: 4.6
+RECIPE NAME: shadow-securetty
+LICENSE: MIT
+
+PACKAGE NAME: shared-mime-info
+PACKAGE VERSION: 1.15
+RECIPE NAME: shared-mime-info
+LICENSE: GPLv2
+
+PACKAGE NAME: systemd
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: systemd-compat-units
+PACKAGE VERSION: 1.0
+RECIPE NAME: systemd-compat-units
+LICENSE: MIT
+
+PACKAGE NAME: systemd-conf
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd-conf
+LICENSE: MIT
+
+PACKAGE NAME: systemd-extra-utils
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: systemd-serialgetty
+PACKAGE VERSION: 1.0
+RECIPE NAME: systemd-serialgetty
+LICENSE: GPLv2+
+
+PACKAGE NAME: systemd-vconsole-setup
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: udev
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: udev-hwdb
+PACKAGE VERSION: 245.6
+RECIPE NAME: systemd
+LICENSE: GPLv2 & LGPLv2.1
+
+PACKAGE NAME: update-alternatives-opkg
+PACKAGE VERSION: 0.4.2
+RECIPE NAME: opkg-utils
+LICENSE: GPLv2+
+
+PACKAGE NAME: update-rc.d
+PACKAGE VERSION: 0.8
+RECIPE NAME: update-rc.d
+LICENSE: GPLv2+
+
+PACKAGE NAME: util-linux
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-addpart
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-agetty
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-blkdiscard
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-blkid
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-blkzone
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-blockdev
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-cal
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-cfdisk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-chcpu
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-chmem
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-choom
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-chrt
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-col
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-colcrt
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-colrm
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-column
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-ctrlaltdel
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-delpart
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-dmesg
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-eject
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fallocate
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fdformat
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fdisk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fincore
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-findfs
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-findmnt
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-flock
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fsck
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fsck.cramfs
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fsfreeze
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-fstrim
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-getopt
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-hardlink
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-hexdump
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-hwclock
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-ionice
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-ipcmk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-ipcrm
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-ipcs
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-isosize
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-kill
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-last
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-ldattach
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-libblkid
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-libfdisk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-libmount
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-libsmartcols
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-libuuid
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-logger
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-look
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-losetup
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-lsblk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-lscpu
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-lsipc
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-lslocks
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-lslogins
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-lsmem
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-lsns
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-mcookie
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-mesg
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-mkfs
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-mkfs.cramfs
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-mkswap
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-more
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-mount
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-mountpoint
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-namei
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-nologin
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-nsenter
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-partx
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-pivot-root
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-prlimit
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-readprofile
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-rename
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-renice
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-resizepart
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-rev
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-rfkill
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-rtcwake
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-runuser
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-script
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-scriptlive
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-scriptreplay
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-setarch
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-setpriv
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-setsid
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-setterm
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-sfdisk
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-su
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-sulogin
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-swaplabel
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-swapoff
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-swapon
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-switch-root
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-taskset
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-ul
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-umount
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-unshare
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-utmpdump
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-uuidd
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-uuidgen
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-uuidparse
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-wall
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-wdctl
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-whereis
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-wipefs
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-write
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: util-linux-zramctl
+PACKAGE VERSION: 2.35.1
+RECIPE NAME: util-linux
+LICENSE: GPLv2+ & LGPLv2.1+ & BSD-3-Clause & BSD-4-Clause
+
+PACKAGE NAME: v86d
+PACKAGE VERSION: 0.1.10
+RECIPE NAME: v86d
+LICENSE: GPLv2
+
+PACKAGE NAME: volatile-binds
+PACKAGE VERSION: 1.0
+RECIPE NAME: volatile-binds
+LICENSE: MIT
+
+PACKAGE NAME: zlib
+PACKAGE VERSION: 1.2.11
+RECIPE NAME: zlib
+LICENSE: Zlib
+
+PACKAGE NAME: zstd
+PACKAGE VERSION: v1.4.0+gitAUTOINC+83b51e9f88
+RECIPE NAME: zstd
+LICENSE: BSD & GPLv2
+
