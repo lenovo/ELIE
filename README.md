@@ -57,6 +57,9 @@ elie-4.7
 elie-loca-20220303
   - license files for packages available in elie-loca-20220303.
 
+elie-lemans-20221103
+  - license files for packages available in elie-lemans-20221103.
+
 For access to the actual meta layer source code, please contact Lenovo Support.
 
 

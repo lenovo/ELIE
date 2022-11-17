@@ -1,0 +1,5 @@
+RECIPE NAME: linux-yocto
+VERSION: 5.15.68
+LICENSE: GPL-2.0-only
+FILES: bzImage--5.15.68-r0-virt-20221103100111.bin modules--5.15.68-r0-virt-20221103100111.tgz
+
