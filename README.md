@@ -63,6 +63,9 @@ elie-lemans-20221103
 elie-xalxca-4.22:
   - license files for package available in ELIE-XALXCA-3.1.22-4.22.
 
+elie-loca-20230320
+  - license files for packages available in elie-loca-20230320.
+
 For access to the actual meta layer source code, please contact Lenovo Support.
 
 
